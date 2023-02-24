@@ -5,7 +5,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 ### Technical Education
 - Flatiron School - Oct'22 to Feb'23
 
-### Projects
-- 
+### Notable Projects
+- Nov-22 - FlatIron School - Group Project 1 - https://github.com/fetterollie/Microsoft-Movie-Analysis
 
 
