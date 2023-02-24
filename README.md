@@ -22,4 +22,4 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 
 ### Blog Projects
 * Dec'22 - [Building a Crypto Trading Dashboard – The First Steps](https://github.com/nate102938/blog_2_repository) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/)
-    * Downloaded data from Google Drive and Kraken API.  Combined data using pandas time series aggregation and began analysis.  
+    * Downloaded trading data from Google Drive and Kraken API.  Combined the data using Pandas and began analysis.
