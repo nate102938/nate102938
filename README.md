@@ -7,8 +7,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 
 ### Flatiron School Projects
 - Nov-22 - Phase 1 - Group Project - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)
-- Dec-22 - Phase 2 - Group Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2) - Predict home prices using linear regression algorithm.  
-- Jan-22 - Phase 3 - Individual Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2) - Predict customer churn using pipelines and classification algorithms.
-- 
-
+- Dec-22 - Phase 2 - Group Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2) - Predict home prices using linear regression modeling.  
+- Jan-22 - Phase 3 - Individual Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2) - Predict customer churn using pipelines and classification modeling.
+- Jan-22 - Phase 4 - Group Project -  [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) - Analyze tweets using NLP techniques.  Create a classification model that predicts positive or negative sentiment based on tweet language. 
 
