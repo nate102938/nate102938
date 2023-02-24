@@ -19,9 +19,9 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 
 ### Blog Projects
 * Dec'22 - [Building a Crypto Trading Dashboard – The First Steps](https://github.com/nate102938/blog_2_repository) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/)
-    * Downloaded trading data from Google Drive and Kraken API.  Combined the data using Pandas and began analysis.
+    * Downloaded trading data (6.6m trade records) from Google Drive and Kraken API.  Combined the data using Pandas and began analysis.
 * Jan'22 - [Class Links Web Scraper](https://github.com/nate102938/class_links_web_scraper) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2023/01/23/web-scraping-tips/)
-    * Used Selenium to web scrape, save, and output lesson names and related links from the Flatiron School Data Science course.
+    * Used Selenium to web scrape lesson names and related links from the Flatiron School Data Science course.
 
 ## Connect with me:
 [![Github](https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/nate102938) [![LinkedIn](https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/kistnate/) [![Gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:natekist@gmail.com)
