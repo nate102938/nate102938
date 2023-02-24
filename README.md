@@ -6,15 +6,15 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 - Flatiron School - Oct'22 to Feb'23
 
 ### Flatiron School - Main Projects
-* Nov-22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Group)
+* Nov'22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Group)
     * Joined and analyzed large movie datasets using Python and Pandas.
-* Dec-22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Group)
+* Dec'22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Group)
     * Predicted home prices in King County Washington using multiple linear regression modeling.
-* Jan-23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Individual)
+* Jan'23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Individual)
     * Predicted customer churn at a telecommunication company using pipelines and classification modeling.
-* Jan-23 - [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) (Group)
+* Jan'23 - [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) (Group)
     * Predicted customer sentiment using NLP techniques and classification modeling.
-* Feb-23 - [Twitter Ads 2.0](https://github.com/nate102938/twitter_classifier) (Individual - **Capstone Project**)
+* Feb'23 - [Twitter Ads 2.0](https://github.com/nate102938/twitter_classifier) (Individual - **Capstone Project**)
     * Predicted the primary interest and/or political affiliation of a Twitter user using NLP techniques and classification modeling on the user's most recent tweets.
     * Sourced and labeled my own dataset of ~131K tweets from the Twitter API to train and test the model.
     * Saved the TFIDF vectorizer and model for deployment using Pickle and demonstrated its use using Gradio.
