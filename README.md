@@ -6,6 +6,6 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 - Flatiron School - Oct'22 to Feb'23
 
 ### Notable Projects
-- Nov-22 - FlatIron School - Group Project 1 - [Github](https://github.com/fetterollie/Microsoft-Movie-Analysis)
+- Nov-22 - FlatIron School - Phase 1 - Group Project - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)
 
 
