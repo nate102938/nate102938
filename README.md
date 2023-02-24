@@ -16,14 +16,13 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
     * Predicted the primary interest and/or political affiliation of a Twitter user using NLP and classification modeling on the user's most recent tweets.
     * Sourced and labeled my own dataset of ~131K tweets from the Twitter API to train and test the model.
     * Saved the TFIDF vectorizer and model for deployment using Pickle and demonstrated its use using Gradio.
-
 #### Blog Projects
 * Dec'22 - [Building a Crypto Trading Dashboard – The First Steps](https://github.com/nate102938/blog_2_repository) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/)
     * Downloaded trading data (6.6m trade records) from Google Drive and Kraken API.  Combined the data using Pandas and began analysis.
 * Jan'22 - [Class Links Web Scraper](https://github.com/nate102938/class_links_web_scraper) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2023/01/23/web-scraping-tips/)
     * Used Selenium to web scrape lesson names and related links from the Flatiron School Data Science course.
 
-## Personal Projects
+### Personal Projects
 
 * Coming soon! 
 
