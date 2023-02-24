@@ -5,7 +5,9 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 ### Technical Education
 - Flatiron School - Oct'22 to Feb'23
 
-### Notable Projects
-- Nov-22 - FlatIron School - Phase 1 - Group Project - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)
+### Flatiron School Projects
+- Nov-22 - Phase 1 - Group Project - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)
+- Dec-22 - Phase 2 - Group Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2).  Predict home prices using OLS/linear regression.  
+- Jan-22 - Phase 3 - Individual Project - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)
 
 
