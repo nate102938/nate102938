@@ -21,3 +21,4 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
     * Saved the TFIDF vectorizer and model for deployment using Pickle and demonstrated its use using Gradio.
 
 ### Blog Projects
+* Dec'22 - [Building a Crypto Trading Dashboard – The First Steps](https://github.com/nate102938/blog_2_repository) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/)
