@@ -6,14 +6,14 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 - Flatiron School - Oct'22 to Feb'23
 
 ### Flatiron School - Class Projects
-* Nov-22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Phase 1 - Group Project)
+* Nov-22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Group Project)
     * Joined and analyzed large movie datasets using Python and Pandas.
-* Dec-22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Phase 2 - Group Project)
+* Dec-22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Group Project)
     * Predicted home prices in King County Washington using multiple linear regression modeling.
-* Jan-23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Phase 3 - Individual Project)
+* Jan-23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Individual)
     * Predicted customer churn at a telecommunication company using pipelines and classification modeling.
-* Jan-23 - [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) (Phase 4 - Group Project)
+* Jan-23 - [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) (Group)
     * Predicted positive or negative product sentiment using NLP techniques and classification modeling.
-* Feb-23 - [Twitter Ads 2.0](https://github.com/nate102938/twitter_classifier) (Phase 5 - Individual Project - Capstone)
+* Feb-23 - [Twitter Ads 2.0](https://github.com/nate102938/twitter_classifier) (Individual)
     * Predicted the primary interest and/or political affiliation of a Twitter user NLP techniques and classification modeling on the user's most recent tweets.
     * Sourced and labeled the model's training and test dataset from the Twitter API, consisting of ~130K tweets from a curated list of ~600 accounts.
