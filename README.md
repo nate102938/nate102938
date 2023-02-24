@@ -23,7 +23,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 * Jan'22 - [Class Links Web Scraper](https://github.com/nate102938/class_links_web_scraper) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2023/01/23/web-scraping-tips/)
     * Used Selenium to web scrape lesson names and related links from the Flatiron School Data Science course.
 
-### Personal Projects
+## Personal Projects
 
 * Coming soon! 
 
