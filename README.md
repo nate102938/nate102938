@@ -5,7 +5,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 ### Flatiron School - Oct'22 to Feb'23
 #### Main Projects
 * Nov'22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Group)
-    * Joined and analyzed large movie datasets using Python and Pandas.
+           Joined and analyzed large movie datasets using Python and Pandas.
 * Dec'22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Group)
     * Predicted home prices in King County Washington using multiple linear regression modeling.
 * Jan'23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Individual)
