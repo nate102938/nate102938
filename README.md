@@ -5,7 +5,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 ### Flatiron School - Oct'22 to Feb'23
 #### Main Projects
 * Nov'22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/fetterollie/Microsoft-Movie-Analysis)  (Group)
-           Joined and analyzed large movie datasets using Python and Pandas.
+    * Joined and analyzed large movie datasets using Python and Pandas.
 * Dec'22 - [King County Real Estate Modeling](https://github.com/ilanhaskel/Sleep-Regression-Project2)  (Group)
     * Predicted home prices in King County Washington using multiple linear regression modeling.
 * Jan'23 - [SyriaTel Customer Churn Analysis](https://github.com/nate102938/SyriaTel_customer_churn) (Individual)
@@ -13,9 +13,7 @@ Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a car
 * Jan'23 - [Apple Customer Sentiment Classifier](https://github.com/josecastillofl/phase_4_project) (Group)
     * Predicted customer sentiment using NLP and classification modeling.
 * Feb'23 - [Twitter Ads 2.0](https://github.com/nate102938/twitter_classifier) (Individual - **Capstone Project**)
-    * Predicted the primary interest and/or political affiliation of a Twitter user using NLP and classification modeling on the user's most recent tweets.
-    * Sourced and labeled my own dataset of ~131K tweets from the Twitter API to train and test the model.
-    * Saved the TFIDF vectorizer and model for deployment using Pickle and demonstrated its use using Gradio.
+    * Predicted the primary interest and/or political affiliation of a Twitter user using NLP and classification modeling on the user's most recent tweets.  Sourced and labeled my own dataset of ~131K tweets from the Twitter API to train and test the model.  Saved the TFIDF vectorizer and model for deployment using Pickle and demonstrated its use using Gradio.
 #### Blog Projects
 * Dec'22 - [Building a Crypto Trading Dashboard – The First Steps](https://github.com/nate102938/blog_2_repository) (Individual) - [Blog Post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/)
     * Pythonically downloaded trading data (6.6m trade records) from Google Drive and Kraken API.  Combined the data using and began analysis using Pandas.
