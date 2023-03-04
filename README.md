@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Welcome! I'm Nate Kist.  I am a former accountant that is transitioning to a career in data science.  My entire accounting career has involved analyzing financial data for auditing purposes or commercial banking due diligence.  I eventually figured out that the part of my jobs I've always enjoyed the most was the handling and processing of data.  I took a break from work to take a data science class remotely through the Flatiron School (NY) to pursue this interest further and learn new skills.  I enjoyed the class so much that I'm trying to make a career out of it.   
+Welcome!  I'm Nate Kist.  I recently took a remote data science course at the Flatiron School (NY) to enhance my data processing skills.  Below are projects from the course and, eventually, personal projects that I will add as I progress.  Feel free to contact me if you have any questions about anything. 
 
 ### Flatiron School - Oct'22 to Feb'23
 * Nov'22 - [Movie Industry Analysis for Microsoft Movie Studios](https://github.com/nate102938/Microsoft-Movie-Analysis) - Group Project - Data analysis using Pandas
